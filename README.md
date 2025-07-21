@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 🌱 I’m currently learning **HTML,CSS,JavaScript,PHP and Laravel**
-🏫 I'm Study on **SMK WIKRAMA 1 Garut**<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+🏫 I'm Study on **SMK WIKRAMA 1 Garut**
 
 🤪😳😳😳🥶
 
